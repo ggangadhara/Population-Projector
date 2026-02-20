@@ -1,0 +1,9 @@
+{
+  "name": "Census Projection Tool",
+  "short_name": "Census Tool",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f2f7f2",
+  "theme_color": "#006400",
+  "orientation": "portrait"
+}
